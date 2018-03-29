@@ -3,6 +3,7 @@
 #define _03HW_SOL_INCLUDE_MOBILE_ROBOT_H_  // NOLINT
 
 #include <string>
+#include "../lib/include/point.h"
 
 namespace csce240 {
 
